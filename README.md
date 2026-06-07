@@ -1,4 +1,4 @@
-# Machine Learning Classification Project
+# Machine Learning Classification Project (ICS 485)
 
 > A comparative study of machine learning models for binary classification on an imbalanced dataset.
 
